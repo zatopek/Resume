@@ -10,7 +10,7 @@ It is licensed under the Apache License 2.0.
 
 ## Motivation
 
-This fork of the [Deedy-Resume by Deedy]((https://github.com/Deedy/Deedy-Resume) was inspired by feedback from /r/resumes and my university career center.  The fonts are a bit heavier and the columns have been reversed to highlight experience first when read in a "Z" pattern.
+This fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) was inspired by feedback from /r/resumes and my university career center.  The fonts are a bit heavier and the columns have been reversed to highlight experience first when read in a "Z" pattern.
 
 ## Preview
 
