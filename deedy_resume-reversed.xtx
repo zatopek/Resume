@@ -147,7 +147,7 @@
 \descript{| Class Project for Distributed Client-Server Programming}
 \location{Jan 2018 – May 2018 | Mississippi State, MS}
 \begin{tightemize}
-\item Lead the development of Chit Chat, an anonymous chat application created as a class project.
+\item Lead the development of \textbf{\href{http://www.chit-chat.net/}{Chit Chat}}, an anonymous chat application created as a class project.
 \item Chit Chat provides real-time communication while utilizing a PHP backend and AngularJS frontend.
 \end{tightemize}
 \sectionsep
