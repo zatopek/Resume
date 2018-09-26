@@ -58,7 +58,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass[]{deedy-resume-openfont}
+\documentclass[]{deedy-resume-reversed}
 \usepackage{fancyhdr}
 
 \pagestyle{fancy}
