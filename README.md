@@ -2,9 +2,7 @@ Deedy-Resume-Reversed
 =========================
 
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
-As of **v1.3**, a single template is offered:
-
-1. **OpenFonts** - uses free, open-source fonts that resemble the above - *Lato* (and its various variants) and *Raleway*.
+As of **v1.3**, a single template is offered that uses free, clean fonts - *Lato* (and its various variants) and *Raleway*.
 
 It is licensed under the Apache License 2.0.
 
@@ -14,7 +12,7 @@ This fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) 
 
 ## Preview
 
-![alt tag](https://raw.githubusercontent.com/ZDTaylor/Deedy-Resume/master/sample-image.png)
+![alt tag](https://raw.githubusercontent.com/ZDTaylor/Deedy-Resume-Reversed/master/sample-image.png)
 
 ## Dependencies
 
@@ -25,7 +23,6 @@ This fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) 
 1. Just clone this repo or download the fonts folder and the .xtx, .sty, and .bib files.
 <!--
 2. **Overleaf**.com (formerly **WriteLatex**.com) (v1 fonts/colors changed) - [compilable online](https://www.writelatex.com/templates/deedy-resume/sqdbztjjghvz#.U2H9Kq1dV18)
-3. **ShareLatex**.com (v1 fonts changes) - [compilable online](https://www.sharelatex.com/templates/cv-or-resume/deedy-resume)
 -->
 
 ## Changelog
