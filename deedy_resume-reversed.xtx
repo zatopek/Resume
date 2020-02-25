@@ -78,8 +78,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Zachary Taylor}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
-\href{mailto:zacharydtaylor1997@gmail.com}{zacharydtaylor1997@gmail.com} | \href{tel:16156635675}{615.663.5675}
+\namesection{Gautam Velpula}{ %\urlstyle{same}\\
+\href{mailto:gautamvelpula@gmail.com}{gautamvelpula@gmail.com} | \href{tel:+16785390154}{678.539.0154x}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -95,9 +95,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{ADTRAN}
-\descript{| Advanced Development Intern }
-\location{May 2018 – Aug 2018 | Huntsville, AL}
+\runsubsection{Slalom LLC}
+\descript{| Solution Principal }
+\location{Sep 2018 – Present | Atlanta, GA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Developed a cloud-based solution to automate and enhance the engineering process for network installation using AWS and Python.
@@ -107,9 +107,9 @@
 \end{tightemize}
 \sectionsep
 
-\runsubsection{ExxonMobil IT}
-\descript{| Intern }
-\location{Feb 2017 – Nov 2017 | The Woodlands, TX}
+\runsubsection{Jacada Inc}
+\descript{| Director Professional Services }
+\location{May 2014 – Sep 2018 | Atlanta, GA}
 \begin{tightemize}
 \item Coordinated with multiple departments to lead a software product evaluation resulting in a fit-for-purpose verdict and provided a recommendation on moving forward.
 \item Organized meetings with the vendor to receive in-depth product information and answers to cross-departmental questions.
@@ -119,9 +119,9 @@
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Mississippi State University ITS}
-\descript{| Assistant Support Specialist }
-\location{Aug 2015 – Oct 2016 | Mississippi State, MS}
+\runsubsection{Assurant Solutions}
+\descript{| Senior Web Services Developer }
+\location{May 2013 – Nov 2013 | Atlanta, GA}
 \begin{tightemize}
 \item Interacted with clients to assess their problems and implement a solution in an efficient, friendly manner.
 \item Prepared workstations and laptops for future use by company employees.
@@ -232,9 +232,9 @@
 
 \section{Education}
 
-\subsection{Mississippi State University}
-\descript{Bachelor of Science in Computer Science with minors in Mathematics and Statistics}
-\location{Expected Dec 2019 | Starkville, MS}
+\subsection{George Mason University}
+\descript{Master of Science in information Systems}
+\location{Jan 2009 | Fairfax, VA}
 % College of Engineering \\
 Dean's List (All Semesters) \\
 \location{ Cum. GPA: 4.0 / 4.0}
