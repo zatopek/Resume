@@ -79,7 +79,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Gautam Velpula}{ %\urlstyle{same}\\
-\href{mailto:gautamvelpula@gmail.com}{gautamvelpula@gmail.com} | \href{tel:+16785390154}{678.539.0154x}
+\href{mailto:gautamvelpula@gmail.com}{gautamvelpula@gmail.com} | \href{tel:+16785390154}{678.539.0154cc}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -100,10 +100,7 @@
 \location{Sep 2018 – Present | Atlanta, GA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Developed a cloud-based solution to automate and enhance the engineering process for network installation using AWS and Python.
-\item Worked with other teams to create a system to collect and visualize telemetry data of network elements in real time using AWS, Python, and DOMO.
-\item Consulted with other teams to jump start cloud-technology adoption and solutions throughout the company.
-\item Contributed to initial planning for optics-alignment system utilizing AWS, reinforcement learning, and an IoT architecture.
+\item 
 \end{tightemize}
 \sectionsep
 
@@ -111,11 +108,7 @@
 \descript{| Director Professional Services }
 \location{May 2014 – Sep 2018 | Atlanta, GA}
 \begin{tightemize}
-\item Coordinated with multiple departments to lead a software product evaluation resulting in a fit-for-purpose verdict and provided a recommendation on moving forward.
-\item Organized meetings with the vendor to receive in-depth product information and answers to cross-departmental questions.
-\item Participated on the Web Development Taskforce to provide AngularJS sites to internal customers.
-\item Participated in an internal CodeJam to prototype a blockchain application for managing a model supply-chain.
-\item Worked with a team to plan executive visit and team-building exercise for 200 employees.
+\item 
 \end{tightemize}
 \sectionsep
 
@@ -123,9 +116,7 @@
 \descript{| Senior Web Services Developer }
 \location{May 2013 – Nov 2013 | Atlanta, GA}
 \begin{tightemize}
-\item Interacted with clients to assess their problems and implement a solution in an efficient, friendly manner.
-\item Prepared workstations and laptops for future use by company employees.
-\item Created scripts to automate common tasks and increase productivity.
+\item
 \end{tightemize}
 \sectionsep
 
@@ -235,9 +226,7 @@
 \subsection{George Mason University}
 \descript{Master of Science in information Systems}
 \location{Jan 2009 | Fairfax, VA}
-% College of Engineering \\
-Dean's List (All Semesters) \\
-\location{ Cum. GPA: 4.0 / 4.0}
+% Volgenau School of Engineering\\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -246,58 +235,55 @@ Dean's List (All Semesters) \\
 
 \section{Skills}
 \subsection{Programming}
-\location{3+ years:}
-Python \textbullet{} C/C++ \\
+\location{5+ years:}
+Java \textbullet{} JavaScript \\
 \location{1+ years:}
-PHP \textbullet{} JavaScript \\
-\location{0+ years:}
-Matlab \textbullet{} R \textbullet{} SAS \\
+golang \textbullet{} Python \\
 \sectionsep
 
 \subsection{Technology}
-Git/Github \textbullet{} AWS \textbullet{} Linux \\
-UNIX \textbullet{} Windows \textbullet{} ROS \\
-Artificial Intelligence \textbullet{} Automation \\
+GCP \textbullet{} AWS \textbullet{} Linux \\
+SpringBoot \textbullet{} NodeJS \textbullet{} Terraform \\
+Windows \textbullet{} SQL Server \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
-\subsection{Graduate}
-Analysis of Algorithms
-\sectionsep
+%\section{Coursework}
+%\subsection{Graduate}
+%Analysis of Algorithms
+%\sectionsep
 
-\subsection{Undergraduate}
-Artificial Intelligence \\
-{\footnotesize \textit{\textbf{(Teaching Assistant) }}} \\
-AI Robotics \\
-Operating Systems I \\
-Calculus I-IV \\
-Data Analysis I \\
-Introduction to Probability \\
-\sectionsep
+%\subsection{Undergraduate}
+%Artificial Intelligence \\
+%{\footnotesize \textit{\textbf{(Teaching Assistant) }}} \\
+%AI Robotics \\
+%Operating Systems I \\
+%Calculus I-IV \\
+%Data Analysis I \\
+%Introduction to Probability \\
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Societies
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Societies}
-Association for Computing Machinery (ACM)\\
-Scrum Alliance Certified ScrumMaster\\
-Shackouls Honors College\\
-National Merit Scholarship Finalist \\
-\sectionsep
+%\section{Societies}
+%Association for Computing Machinery (ACM)\\
+%Scrum Alliance Certified ScrumMaster\\
+%Shackouls Honors College\\
+%National Merit Scholarship Finalist \\
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links}
-Github:// \href{https://github.com/ZDTaylor}{\bf ZDTaylor} \\
-LinkedIn://  \href{https://www.linkedin.com/in/zacharydtaylor1}{\bf zacharydtaylor1} \\
-Career Center:// \href{https://msstate-csm.symplicity.com/profiles/zachary.taylor3}{\bf zachary.taylor3}
+Github:// \href{https://github.com/zatopek}{\bf zatopek} \\
+LinkedIn://  \href{https://www.linkedin.com/in/gautamvelpula}{\bf gautamvelpula} \\
 \sectionsep
 
 \end{minipage}
